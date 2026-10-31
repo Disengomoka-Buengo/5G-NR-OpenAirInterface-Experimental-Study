@@ -1,0 +1,30 @@
+# Experimental Results and Performance Analysis
+
+## Performance Indicators
+
+The experimental evaluation considered the following 5G NR performance indicators:
+
+- RSRP
+- RSRQ
+- SINR
+- CQI
+- BLER
+- RI
+- MCS
+- Throughput
+
+## Experimental Comparisons
+
+The project evaluated the impact of radio configuration parameters on link performance.
+
+Measurements were compared with theoretical estimates, including:
+
+- Friis transmission equation.
+- SINR-to-CQI mapping.
+- Bitrate estimation based on TDD slot allocation.
+
+## Results Documentation
+
+This section contains the experimental graphs, measurement tables and technical interpretation of the results.
+
+Each result should identify the test configuration, propagation conditions and transmission direction.
