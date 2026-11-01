@@ -9,7 +9,7 @@
 
 <p align="center">
   <img src="../images/Ambiente Experimental LoS.jpg.jpeg" width="45%">
-  <img src="../images/Ambiente experimental NLoS.jpg.jpeg" width="45%">
+  <img src="../images/Ambiente Experimental NLoS.jpg.jpeg" width="45%">
 </p>
 
 This section documents the ten experimental tests performed during the 5G NR Standalone project.
