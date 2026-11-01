@@ -26,7 +26,7 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 
 2. Carrier frequency variation.
 ## n77
-<img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n77.jpg" width="600">
+<img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n77.png" width="600">
 ## n78
 <img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n78.jpg" width="600">
 
