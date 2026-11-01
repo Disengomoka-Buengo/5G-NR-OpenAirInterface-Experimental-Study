@@ -25,10 +25,15 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 <img src="../images/Análise do Impacto da Lardura de Banda no Desempenho da Ligação 5G NR 40Mhz.jpg" width="600">
 
 2. Carrier frequency variation.
-3. TDD slot configuration.
-4. FDD operation.
-5. Modulation and Coding Scheme (MCS).
-6. MIMO configuration.
+## n77
+<img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n77.jpg" width="600">
+## n78
+<img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n78.jpg" width="600">
+
+4. TDD slot configuration.
+5. FDD operation.
+6. Modulation and Coding Scheme (MCS).
+7. MIMO configuration.
 
 ## Protocols and Security
 
