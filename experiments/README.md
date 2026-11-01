@@ -1,5 +1,14 @@
 # Experimental Laboratory Tests
 
+<p align="center">
+  <img src="../images/Ambiente Experimental.jpg.jpg" width="45%">
+  <img src="../images/USRP-B210.jpg" width="45%">
+</p>
+<p align="center">
+  <img src="../images/OAIBOX.jpg" width="45%">
+  <img src="../images/USRP-B210.jpg" width="45%">
+</p>
+
 This section documents the ten experimental tests performed during the 5G NR Standalone project.
 
 ## Radio Configuration
