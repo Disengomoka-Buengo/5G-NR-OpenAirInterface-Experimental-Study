@@ -18,7 +18,12 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 ## KPI dashboard view
 <img src="../images/Vizualização da Dashboard.jpg.jpeg" width="600">
 
-1. Channel bandwidth impact.
+## 1. Channel bandwidth impact.
+## 20Mhz
+<img src="../images/Análise do Impacto da Largura de Banda no Desempenho da Liagação 5G NR 20Mhz.jpg" width="600">
+## 40Mhz
+<img src="../images/Vizualização da Dashboard.jpg.jpeg" width="600">
+
 2. Carrier frequency variation.
 3. TDD slot configuration.
 4. FDD operation.
