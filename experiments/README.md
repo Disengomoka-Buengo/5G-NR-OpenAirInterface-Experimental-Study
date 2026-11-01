@@ -4,9 +4,12 @@
   <img src="../images/Ambiente experimental.jpg.jpeg" width="45%">
   <img src="../images/Ambiente Experimetam LOs.jpg.jpeg" width="45%">
 </p>
+
+# Experimental Laboratory Tests LoS and NLoS
+
 <p align="center">
-  <img src="../images/OAIBOX.jpg" width="45%">
-  <img src="../images/USRP-B210.jpg" width="45%">
+  <img src="../images/Ambiente Experimental LoS.jpg.jpeg" width="45%">
+  <img src="../images/Ambiente experimental NLoS.jpg.jpeg" width="45%">
 </p>
 
 This section documents the ten experimental tests performed during the 5G NR Standalone project.
