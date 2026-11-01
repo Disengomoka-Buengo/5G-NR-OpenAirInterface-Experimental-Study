@@ -13,7 +13,7 @@ The platform was configured to run the 5G Core Network (CN5G) and the gNB.
 - 5G Core: OpenAirInterface CN5G.
 - Radio Front-End: USRP B210.
 
-- <img src="../images/Arquitetura da rede 5GNR.PNG" width="600">
+- <img src="../images/Arquitetura da rede 5GNR.png" width="600">
 
 ## Main Interfaces
 
