@@ -22,20 +22,26 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 ## 20Mhz
 <img src="../images/Análise do Impacto da Lardura de Banda no Desempenho da Ligação 5G NR 20Mhz.jpg" width="600">
 
-## 20Mhz
+## 40Mhz
 <img src="../images/Análise do Impacto da Lardura de Banda no Desempenho da Ligação 5G NR 40Mhz.jpg" width="600">
 
-2. Carrier frequency variation.
+## 2. Carrier frequency variation.
 ## n77
 <img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n77.png" width="600">
 
 ## n78
 <img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n78.jpg" width="600">
 
-4. TDD slot configuration.
-5. FDD operation.
-6. Modulation and Coding Scheme (MCS).
-7. MIMO configuration.
+## TDD slot configuration.
+## DDDFU
+<img src="../images/Testar o Modo TDD.png" width="600">
+
+## DDFUU
+<img src="../images/Testar o Modo FDD.png" width="600">
+
+6. FDD operation.
+7. Modulation and Coding Scheme (MCS).
+8. MIMO configuration.
 
 ## Protocols and Security
 
