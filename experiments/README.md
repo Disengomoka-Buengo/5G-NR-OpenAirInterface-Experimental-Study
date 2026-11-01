@@ -15,7 +15,7 @@
 This section documents the ten experimental tests performed during the 5G NR Standalone project.
 
 ## Radio Configuration
-# KPI dashboard view
+## KPI dashboard view
 <img src="../images/Vizualização da Dashboard.jpg.jpeg" width="600">
 
 1. Channel bandwidth impact.
