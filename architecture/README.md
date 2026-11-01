@@ -13,8 +13,6 @@ The platform was configured to run the 5G Core Network (CN5G) and the gNB.
 - 5G Core: OpenAirInterface CN5G.
 - Radio Front-End: USRP B210.
 
-- <img src="../images/Arquitetura da rede 5GNR.png" width="600">
-
 ## Main Interfaces
 
 - Uu: Radio interface between UE and gNB.
@@ -27,3 +25,5 @@ The platform was configured to run the 5G Core Network (CN5G) and the gNB.
 The project included experimental analysis of an ICMP packet travelling through the 5G network, including radio protocol processing, GTP-U encapsulation and tunnel decapsulation.
 
 See the topology and packet-path diagrams in this folder.
+
+- <img src="../images/Arquitetura da rede 5GNR.png" width="600">
