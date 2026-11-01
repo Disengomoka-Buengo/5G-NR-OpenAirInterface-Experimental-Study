@@ -21,12 +21,14 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 ## 1. Channel bandwidth impact.
 ## 20Mhz
 <img src="../images/Análise do Impacto da Lardura de Banda no Desempenho da Ligação 5G NR 20Mhz.jpg" width="600">
-## 40Mhz
+
+## 20Mhz
 <img src="../images/Análise do Impacto da Lardura de Banda no Desempenho da Ligação 5G NR 40Mhz.jpg" width="600">
 
 2. Carrier frequency variation.
 ## n77
 <img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n77.png" width="600">
+
 ## n78
 <img src="../images/Análise da Alteração da Frequência Central da Portadora do 5G NR n78.jpg" width="600">
 
