@@ -15,6 +15,7 @@
 This section documents the ten experimental tests performed during the 5G NR Standalone project.
 
 ## Radio Configuration
+<img src="../images/Vizualização da Dashboard.jpg.jpeg" width="600">
 
 1. Channel bandwidth impact.
 2. Carrier frequency variation.
