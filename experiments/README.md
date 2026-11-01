@@ -1,7 +1,7 @@
 # Experimental Laboratory Tests
 
 <p align="center">
-  <img src="../images/Ambiente Experimental.jpg.jpeg" width="45%">
+  <img src="../images/Ambiente experimental.jpg.jpeg" width="45%">
   <img src="../images/USRP-B210.jpg" width="45%">
 </p>
 <p align="center">
