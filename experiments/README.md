@@ -65,7 +65,60 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 <img src="../images/Segurança na Rede 5G sem sifre.png" width="600">
 
 
-# Advanced 5G Features
+# Advanced 5G Features and Wireshark Analysis
+# Wireshark Protocol and Signalling Analysis
+
+## Objective
+
+Wireshark was used for packet capture, protocol inspection and Deep Packet Inspection (DPI) within the experimental 5G NR Standalone network.
+
+## Capture Interfaces
+
+- `oai-cn5g`
+- `lo` (Loopback)
+
+## Display Filters
+
+### NGAP
+
+```wireshark
+ngap
+```
+
+Used to inspect the NG Setup procedure, including NGSetupRequest and NGSetupResponse messages exchanged between the gNB and AMF.
+
+### ICMP
+
+```wireshark
+icmp
+```
+
+Used to inspect ICMP Echo Request and Echo Reply packets during connectivity testing.
+
+## Protocol Layers Observed
+
+- MAC-NR
+- RLC-NR
+- PDCP-NR
+- SDAP
+- NGAP
+- NAS
+- GTP-U
+
+## User Plane Analysis
+
+The project investigated packet processing across:
+
+- Uu: Radio protocol stack.
+- N3: GTP-U tunnelling between gNB and UPF.
+- N6: Forwarding towards the external data network after tunnel decapsulation.
+
+## Security Analysis
+
+The experiments also investigated 5G-AKA authentication and security mechanisms affecting NAS signalling and user-plane traffic.
+
+Screenshots included in this folder should be taken from the actual laboratory captures and sanitized before publication.
+
 # 9. Network slicing using an xApp.
 ## URLLC
 <img src="../images/Network Slicing em 5G Usando uma XApp.png" width="600">
