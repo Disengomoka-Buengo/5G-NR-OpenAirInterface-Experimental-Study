@@ -65,7 +65,7 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 <img src="../images/Segurança na Rede 5G sem sifre.png" width="600">
 
 
-## Advanced 5G Features
+# Advanced 5G Features
 # 9. Network slicing using an xApp.
 ## URLLC
 <img src="../images/Network Slicing em 5G Usando uma XApp.png" width="600">
