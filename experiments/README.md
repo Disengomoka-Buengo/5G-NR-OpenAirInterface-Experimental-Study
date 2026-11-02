@@ -57,7 +57,6 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 <img src="../images/Testar Configurações MIMO 2x2.jpg" width="600">
 
 # Protocols and Security
-
 # 8. 5G NR security analysis.
 ## Cipher
 <img src="../images/Segurança na Rede 5G com Sifra.png" width="600">
@@ -67,8 +66,13 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 
 
 ## Advanced 5G Features
+# 9. Network slicing using an xApp.
+## Cipher
+<img src="../images/Network Slicing em 5G Usando uma XApp.png" width="600">
 
-9. Network slicing using an xApp.
+## No Cipher
+<img src="../images/PRBs.png" width="600">
+
 10. PLMN configuration and 5G SIM programming.
 
 Each experiment should include its objective, configuration, methodology, evidence, results and conclusions.
