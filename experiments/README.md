@@ -56,10 +56,15 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 ## MIMO
 <img src="../images/Testar Configurações MIMO 2x2.jpg" width="600">
 
-## Protocols and Security
+# Protocols and Security
 
-7. Deep Packet Inspection (DPI).
-8. 5G NR security analysis.
+# 8. 5G NR security analysis.
+## Cipher
+<img src="../images/Segurança na Rede 5G com Sifra.png" width="600">
+
+## No Cipher
+<img src="../images/Segurança na Rede 5G sem sifre.png" width="600">
+
 
 ## Advanced 5G Features
 
