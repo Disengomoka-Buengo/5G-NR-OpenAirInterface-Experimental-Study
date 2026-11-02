@@ -40,8 +40,13 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 <img src="../images/Testar o Modo FDD.png" width="600">
 
 6. FDD operation.
-7. Modulation and Coding Scheme (MCS).
-8. MIMO configuration.
+## DDDFU
+<img src="../images/Alterar a Configuração de Slots TDD do 5G NR DDDFU.jpg" width="600">
+
+## DDFUU
+<img src="../images/Alterar a Configuração de Slots TDD do 5G NR DDFUU.jpg" width="600">
+8. Modulation and Coding Scheme (MCS).
+9. MIMO configuration.
 
 ## Protocols and Security
 
