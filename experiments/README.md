@@ -67,11 +67,11 @@ This section documents the ten experimental tests performed during the 5G NR Sta
 
 ## Advanced 5G Features
 # 9. Network slicing using an xApp.
-## Cipher
+## URLLC
 <img src="../images/Network Slicing em 5G Usando uma XApp.png" width="600">
 
-## No Cipher
-<img src="../images/PRBs.png" width="600">
+## PRbs
+<img src="../images/PRbs.png" width="600">
 
 10. PLMN configuration and 5G SIM programming.
 
