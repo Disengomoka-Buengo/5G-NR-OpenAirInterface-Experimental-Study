@@ -72,10 +72,8 @@ The experimental evaluation considered:
 - `architecture/` — 5G SA architecture and topology.
 - `hardware/` — Experimental hardware components.
 - `experiments/` — Experimental procedures.
-- `wireshark/` — Protocol and signalling analysis.
 - `results/` — Experimental measurements and KPI analysis.
 - `images/` — Laboratory photographs and technical figures.
-- `references/` — Technical references and standards.
 
 ## Project Objective
 
